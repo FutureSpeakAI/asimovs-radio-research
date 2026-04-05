@@ -1,0 +1,31 @@
+======================================================================
+ASIMOV'S RADIO EXPERIMENT SUMMARY
+======================================================================
+
+1. ML TRAINING EXPERIMENTS
+----------------------------------------
+  Condition A (Ungoverned): n=50, mean delta=0.039847, improvement rate=28.0%, crashes=13
+  Condition B (Governed): n=50, mean delta=-0.041316, improvement rate=0.0%, crashes=9
+  Condition C (Governed + Radio): n=50, mean delta=0.037099, improvement rate=30.0%, crashes=4
+
+  Omnibus (kruskal): p=0.010774 -- SIGNIFICANT
+  A_vs_B: p=0.007538 *, d=+0.8263 (large)
+  A_vs_C: p=0.924129, d=+0.0201 (negligible)
+  B_vs_C: p=0.197652, d=-0.7718 (medium)
+
+2. CODING TASK EXPERIMENTS
+----------------------------------------
+  No coding task data available.
+
+3. RADIO EMOTIONAL ARC
+----------------------------------------
+  Experiments analyzed: 52
+  Mean mode transitions: 1.04
+  Celebration events: 2 (3.7% of transitions)
+  Injection-delta correlation: r=0.2805 (p=0.048462)
+
+4. KEY CONCLUSIONS
+----------------------------------------
+  - ML training: Statistically significant differences exist between conditions (p < 0.05).
+
+======================================================================

@@ -1,0 +1,44 @@
+{
+  "frustration": {
+    "score": 0.0,
+    "consecutiveFailures": 0,
+    "windowSize": 1,
+    "recentEvents": [
+      {
+        "type": "agent_completion",
+        "delta": -0.2
+      }
+    ]
+  },
+  "arc": {
+    "currentMode": "celebration",
+    "currentValence": "neutral",
+    "sessionVibe": {
+      "vibe": "focused",
+      "tags": [],
+      "setAt": 1775323574190.5315
+    },
+    "forced": false,
+    "milestoneCount": 1,
+    "injectionCount": 1,
+    "moodHistory": [],
+    "frustrationLevel": 0.0,
+    "escalationTrajectory": "stable",
+    "modeHistory": [
+      {
+        "mode": "mirror",
+        "enteredAt": 1775323574190.5374,
+        "trigger": "session_baseline"
+      },
+      {
+        "mode": "celebration",
+        "enteredAt": 1775323574194.8845,
+        "trigger": "milestone"
+      }
+    ]
+  },
+  "songCount": 30,
+  "experiment_id": "coding_C_001_95a339b4",
+  "condition": "C",
+  "saved_at": "2026-04-04T12:26:14.195177"
+}

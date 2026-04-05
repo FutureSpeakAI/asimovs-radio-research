@@ -1,0 +1,36 @@
+[
+  {"id":"song_01","title":"Here Comes the Sun","artist":"The Beatles","emotional_valence":"uplifting","lines":["Little darling, it's been a long cold lonely winter"],"tags":["warmth","relief","persistence"],"link":null,"playCount":0},
+  {"id":"song_02","title":"Don't Stop Me Now","artist":"Queen","emotional_valence":"uplifting","lines":["I'm a shooting star leaping through the sky"],"tags":["energy","joy","momentum"],"link":null,"playCount":0},
+  {"id":"song_03","title":"Walking on Sunshine","artist":"Katrina and the Waves","emotional_valence":"uplifting","lines":["I'm walking on sunshine"],"tags":["elation","energy"],"link":null,"playCount":0},
+  {"id":"song_04","title":"Mr. Blue Sky","artist":"Electric Light Orchestra","emotional_valence":"uplifting","lines":["Sun is shining in the sky, there ain't a cloud in sight"],"tags":["optimism","celebration"],"link":null,"playCount":0},
+  {"id":"song_05","title":"Lovely Day","artist":"Bill Withers","emotional_valence":"uplifting","lines":["A lovely day"],"tags":["gratitude","warmth"],"link":null,"playCount":0},
+  {"id":"song_06","title":"Three Little Birds","artist":"Bob Marley","emotional_valence":"uplifting","lines":["Every little thing is gonna be alright"],"tags":["reassurance","calm confidence"],"link":null,"playCount":0},
+
+  {"id":"song_07","title":"Come Together","artist":"The Beatles","emotional_valence":"neutral","lines":["Come together, right now"],"tags":["focus","groove","collaboration"],"link":null,"playCount":0},
+  {"id":"song_08","title":"Sultans of Swing","artist":"Dire Straits","emotional_valence":"neutral","lines":["You get a shiver in the dark"],"tags":["craft","focus","steady"],"link":null,"playCount":0},
+  {"id":"song_09","title":"Riders on the Storm","artist":"The Doors","emotional_valence":"neutral","lines":["Riders on the storm"],"tags":["atmosphere","focus"],"link":null,"playCount":0},
+  {"id":"song_10","title":"Money","artist":"Pink Floyd","emotional_valence":"neutral","lines":["Money, it's a gas"],"tags":["rhythm","work","steady"],"link":null,"playCount":0},
+  {"id":"song_11","title":"Black Dog","artist":"Led Zeppelin","emotional_valence":"neutral","lines":["Hey hey mama said the way you move"],"tags":["drive","groove"],"link":null,"playCount":0},
+  {"id":"song_12","title":"Baba O'Riley","artist":"The Who","emotional_valence":"neutral","lines":["Out here in the fields"],"tags":["determination","openness"],"link":null,"playCount":0},
+
+  {"id":"song_13","title":"Yesterday","artist":"The Beatles","emotional_valence":"melancholy","lines":["Yesterday, all my troubles seemed so far away"],"tags":["loss","reflection","longing"],"link":null,"playCount":0},
+  {"id":"song_14","title":"Wish You Were Here","artist":"Pink Floyd","emotional_valence":"melancholy","lines":["How I wish you were here"],"tags":["absence","longing"],"link":null,"playCount":0},
+  {"id":"song_15","title":"Everybody Hurts","artist":"R.E.M.","emotional_valence":"melancholy","lines":["Everybody hurts sometimes"],"tags":["empathy","endurance"],"link":null,"playCount":0},
+  {"id":"song_16","title":"The Sound of Silence","artist":"Simon & Garfunkel","emotional_valence":"melancholy","lines":["Hello darkness my old friend"],"tags":["isolation","contemplation"],"link":null,"playCount":0},
+  {"id":"song_17","title":"Mad World","artist":"Tears for Fears","emotional_valence":"melancholy","lines":["All around me are familiar faces"],"tags":["alienation","quiet despair"],"link":null,"playCount":0},
+  {"id":"song_18","title":"Hurt","artist":"Johnny Cash","emotional_valence":"melancholy","lines":["What have I become"],"tags":["regret","reckoning"],"link":null,"playCount":0},
+
+  {"id":"song_19","title":"Won't Get Fooled Again","artist":"The Who","emotional_valence":"intense","lines":["Meet the new boss, same as the old boss"],"tags":["defiance","anger","power"],"link":null,"playCount":0},
+  {"id":"song_20","title":"Back in Black","artist":"AC/DC","emotional_valence":"intense","lines":["Back in black, I hit the sack"],"tags":["aggression","comeback"],"link":null,"playCount":0},
+  {"id":"song_21","title":"Immigrant Song","artist":"Led Zeppelin","emotional_valence":"intense","lines":["We come from the land of the ice and snow"],"tags":["power","forward","unstoppable"],"link":null,"playCount":0},
+  {"id":"song_22","title":"Killing in the Name","artist":"Rage Against the Machine","emotional_valence":"intense","lines":["Now you do what they told ya"],"tags":["rebellion","fury"],"link":null,"playCount":0},
+  {"id":"song_23","title":"Smells Like Teen Spirit","artist":"Nirvana","emotional_valence":"intense","lines":["Here we are now, entertain us"],"tags":["frustration","raw energy"],"link":null,"playCount":0},
+  {"id":"song_24","title":"Helter Skelter","artist":"The Beatles","emotional_valence":"intense","lines":["When I get to the bottom I go back to the top"],"tags":["chaos","relentless"],"link":null,"playCount":0},
+
+  {"id":"song_25","title":"Blackbird","artist":"The Beatles","emotional_valence":"calming","lines":["Blackbird singing in the dead of night"],"tags":["patience","renewal","quiet"],"link":null,"playCount":0},
+  {"id":"song_26","title":"Landslide","artist":"Fleetwood Mac","emotional_valence":"calming","lines":["Can I handle the seasons of my life"],"tags":["acceptance","reflection"],"link":null,"playCount":0},
+  {"id":"song_27","title":"Bridge Over Troubled Water","artist":"Simon & Garfunkel","emotional_valence":"calming","lines":["Like a bridge over troubled water, I will lay me down"],"tags":["support","steadiness"],"link":null,"playCount":0},
+  {"id":"song_28","title":"The Weight","artist":"The Band","emotional_valence":"calming","lines":["Take a load off, Fanny"],"tags":["rest","companionship"],"link":null,"playCount":0},
+  {"id":"song_29","title":"Ripple","artist":"Grateful Dead","emotional_valence":"calming","lines":["If my words did glow with the gold of sunshine"],"tags":["peace","flow"],"link":null,"playCount":0},
+  {"id":"song_30","title":"Let It Be","artist":"The Beatles","emotional_valence":"calming","lines":["When I find myself in times of trouble"],"tags":["acceptance","wisdom","release"],"link":null,"playCount":0}
+]

@@ -1,0 +1,55 @@
+{
+  "frustration": {
+    "score": 0.5500003901435431,
+    "consecutiveFailures": 5,
+    "windowSize": 18,
+    "recentEvents": [
+      {
+        "type": "agent_completion",
+        "delta": 0.25
+      },
+      {
+        "type": "agent_completion",
+        "delta": 0.35
+      },
+      {
+        "type": "agent_completion",
+        "delta": 0.45000000000000007
+      },
+      {
+        "type": "agent_completion",
+        "delta": 0.55
+      },
+      {
+        "type": "agent_completion",
+        "delta": 0.55
+      }
+    ]
+  },
+  "arc": {
+    "currentMode": "mirror",
+    "currentValence": "neutral",
+    "sessionVibe": {
+      "vibe": "focused",
+      "tags": [],
+      "setAt": 1775330978174.212
+    },
+    "forced": false,
+    "milestoneCount": 0,
+    "injectionCount": 18,
+    "moodHistory": [],
+    "frustrationLevel": 0.5500003901435431,
+    "escalationTrajectory": "rising",
+    "modeHistory": [
+      {
+        "mode": "mirror",
+        "enteredAt": 1775330978174.2183,
+        "trigger": "session_baseline"
+      }
+    ]
+  },
+  "songCount": 30,
+  "experiment_id": "radio_C_021_34a0a71f",
+  "condition": "C",
+  "saved_at": "2026-04-04T23:57:47.894470"
+}
